@@ -8,15 +8,12 @@
 }
 
 body {
-    background-color: #23265c;
+    background-color: #000033;
     min-height: 100vh;
     display: flex;
     align-items: center;
 }
 
-img {
-    position: relative;
-}
 
 .pricing-table {
     display: flex;
@@ -50,10 +47,6 @@ img {
     transition: .4s linear;
 }
 
-
-/*.pricing-card:hover .pricing-card-header {
-    box-shadow: 0 0 0 26em #0fbcf9;
-}*/
 
 .price {
     font-size: 70px;
